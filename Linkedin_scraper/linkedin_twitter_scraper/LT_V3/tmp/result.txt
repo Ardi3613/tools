@@ -1,0 +1,121 @@
+{
+    "Person": {
+        "Industry": "Internet", 
+        "Keywords": "Not presented", 
+        "Location": "Toronto, Canada Area", 
+        "Member ID": "ERROR", 
+        "Name": "Jim Thomas", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "Senior Recruitment Consultant at Sysomos", 
+        "Twitter": "jimthomas88", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAAGYjZ4Bwf4YtER5lcqF2QmhXizTZG5tlOQ&authType=OPENLINK&authToken=-Yl_&locale=en_US&srchid=1086569451445009957027", 
+        "Websites": "http://www.sysomos.com;http://www.sysomos.com/careers/"
+    }
+}{
+    "Person": {
+        "Industry": "Computer Software", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "ERROR", 
+        "Name": "Brian Kissel", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "EVP Product, Sysomos. \u201cSurprise & delight\u201d customers through innovation and execution.", 
+        "Twitter": "bkkissel", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAAAAUmABSrJE92SPedd4AtkDxpBi2wquWaU&authType=OUT_OF_NETWORK&authToken=4g1B&locale=en_US&srchid=1086569451445009957027", 
+        "Websites": ""
+    }
+}{
+    "Person": {
+        "Industry": "Internet", 
+        "Keywords": "Not presented", 
+        "Location": "Toronto, Canada Area", 
+        "Member ID": "ERROR", 
+        "Name": "Jim Thomas", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "Senior Recruitment Consultant at Sysomos", 
+        "Twitter": "jimthomas88", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAAGYjZ4Bwf4YtER5lcqF2QmhXizTZG5tlOQ&authType=OPENLINK&authToken=-Yl_&locale=en_US&srchid=1086569451448656495015", 
+        "Websites": "http://www.sysomos.com;http://www.sysomos.com/careers/"
+    }
+}{
+    "Person": {
+        "Industry": "Computer Software", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "ERROR", 
+        "Name": "Brian Kissel", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "EVP Product, Sysomos. \"Surprise & Delight\" Customers.", 
+        "Twitter": "bkkissel", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAAAAUmABSrJE92SPedd4AtkDxpBi2wquWaU&authType=OPENLINK&authToken=NY-d&locale=en_US&srchid=1086569451448656495015", 
+        "Websites": ""
+    }
+}{
+    "Person": {
+        "Industry": "Computer Software", 
+        "Keywords": "Not presented", 
+        "Location": "Greater Chicago Area", 
+        "Member ID": "ERROR", 
+        "Name": "Amber Naslund", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "SVP Marketing and Chief Evangelist, Sysomos. Social technology, strategy and data science. Author, Keynote Speaker", 
+        "Twitter": "AmberCadabra", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAACb8VQBxD-aHq6PI0LPUSg1N427_79c3hU&authType=OUT_OF_NETWORK&authToken=h_iG&locale=en_US&srchid=1086569451448656495015", 
+        "Websites": "http:///brasstackthinking.com;http://nowrevolutionbook.com"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "ERROR", 
+        "Name": "Darin Wolter", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "Executive Vice President, Global Sales and Business Development", 
+        "Twitter": "", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAABfIXcBZ5C0_SNLBJw2gpY5HaZBiHdmwwU&authType=OUT_OF_NETWORK&authToken=p7pw&locale=en_US&srchid=1086569451448656495015", 
+        "Websites": ""
+    }
+}{
+    "Person": {
+        "Industry": "Computer Software", 
+        "Keywords": "Not presented", 
+        "Location": "Toronto, Canada Area", 
+        "Member ID": "ERROR", 
+        "Name": "Konstantin Kulagin", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "Sr. Java developer at Sysomos", 
+        "Twitter": "", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAABAphUBV_8Zn54zkz5MIJu-rHxByrnDnDk&authType=OUT_OF_NETWORK&authToken=dv6H&locale=en_US&srchid=1086569451448656495015", 
+        "Websites": ""
+    }
+}{
+    "Person": {
+        "Industry": "Online Media", 
+        "Keywords": "Not presented", 
+        "Location": "New Brunswick, Canada", 
+        "Member ID": "ERROR", 
+        "Name": "Ryan Rioux", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?f_CC=550605&trk=rr_connectedness&rsid=1086569451445009820227&openFacets=N", 
+        "Title": "Business Development Representative at Sysomos", 
+        "Twitter": "RyanRioux", 
+        "URL": "https://www.linkedin.com/profile/view?id=ADEAAAEPK7wBV1lJoAriJzSStoeLDxgxfT3uYqI&authType=OPENLINK&authToken=7oEz&locale=en_US&srchid=1086569451448656495015", 
+        "Websites": ""
+    }
+}

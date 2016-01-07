@@ -1,0 +1,55 @@
+10
+
+dir
+4096
+https://sequel-pro.googlecode.com/svn/tags/release-1.0/SharedSupport/Default%20Bundles
+https://sequel-pro.googlecode.com/svn
+
+
+
+2011-06-30T19:05:01.711105Z
+3347
+bibiko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eefc5464-0a4a-0410-82e6-d75a05d1654a
+
+Toggle JSON Format.spBundle
+dir
+
+CopySingleLineQuoted.spBundle
+dir
+
+Format SQL.spBundle
+dir
+
+CopyAsJSON.spBundle
+dir
+
+MD5 Hash.spBundle
+dir
+
+WrapInDelimiter.spBundle
+dir
+
+SHA1 Hash.spBundle
+dir
+
+DB Report.spBundle
+dir
+
+Open Selected Table.spBundle
+dir
+

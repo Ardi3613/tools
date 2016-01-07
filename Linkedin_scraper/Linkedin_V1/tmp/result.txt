@@ -1,0 +1,144 @@
+{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "10691", 
+        "Name": "Jerry McLaughlin", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=10691", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "CEO & Category Entrepreneur", 
+        "URL": "https://www.linkedin.com/profile/view?id=10691"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "4225271", 
+        "Name": "Ligaya Tichy", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=4225271", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "Community Builder; Startup Enthusiast; Angel Investor", 
+        "URL": "https://www.linkedin.com/profile/view?id=4225271"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "5909336", 
+        "Name": "Arvin Setiawan", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=5909336", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "Investor, Entrepreneur, Small business, Growth-focused marketer", 
+        "URL": "https://www.linkedin.com/profile/view?id=5909336"
+    }
+}{
+    "Person": {
+        "Industry": "", 
+        "Keywords": "Not presented", 
+        "Location": "", 
+        "Member ID": "ERROR", 
+        "Name": "", 
+        "Network Degree": "", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=ERROR", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "", 
+        "URL": ""
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "5930593", 
+        "Name": "Craig Walsey", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=5930593", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "Business Development", 
+        "URL": "https://www.linkedin.com/profile/view?id=5930593"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "9176749", 
+        "Name": "Julio Deulofeu", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=9176749", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "Active investor at Nextsport", 
+        "URL": "https://www.linkedin.com/profile/view?id=9176749"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "9639441", 
+        "Name": "Marcus Anzengruber, CEO & Co-founder @ Campanja", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=9639441", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "We bring SEM heavyweights 20%+ efficiency thru better modeling and bid optimization", 
+        "URL": "https://www.linkedin.com/profile/view?id=9639441"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "11679785", 
+        "Name": "Niles Lichtenstein", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=11679785", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "Digital and Mobile Technology Expert and Entrepreneur", 
+        "URL": "https://www.linkedin.com/profile/view?id=11679785"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "12502221", 
+        "Name": "Emil Babadjov", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=12502221", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "CEO of LeadSecure Inc. Evolution of Real Estate Lead Optimization", 
+        "URL": "https://www.linkedin.com/profile/view?id=12502221"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "21789448", 
+        "Name": "Avi Brown", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=21789448", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "Chief Digital Officer at Extreme Reach | Building the Bridge Between Silicon Valley and Madison Avenue", 
+        "URL": "https://www.linkedin.com/profile/view?id=21789448"
+    }
+}{
+    "Person": {
+        "Industry": "Marketing and Advertising", 
+        "Keywords": "Not presented", 
+        "Location": "San Francisco Bay Area", 
+        "Member ID": "49045297", 
+        "Name": "Darin Alpert", 
+        "Network Degree": "2nd", 
+        "Public Link": "https://www.linkedin.com/profile/view?id=49045297", 
+        "Request URL": "https://www.linkedin.com/vsearch/p?title=investor&postalCode=94101&openAdvancedForm=true&titleScope=C&locationType=I&countryCode=us&distance=50&rsid=142620971433737922904&orig=MDYS", 
+        "Title": "Launched an app, Mark Cuban invested, grew to 2,000,000 users, sold company.", 
+        "URL": "https://www.linkedin.com/profile/view?id=49045297"
+    }
+}
